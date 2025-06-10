@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @captaindarkcoder
+- 👋 Hi, I’m Paul Allen M. Gonzales
 - 👀 I’m interested in programming, physics, mathematics, and engineering
 - 🌱 I’m currently learning MS Excel and Python for Data Analysis
 
