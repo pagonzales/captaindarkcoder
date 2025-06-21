@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul Allen M. Gonzales
-- I am a Mechanical Engineer and a PhD in Theoretical Physics Student
+- 🚀 I am a Mechanical Engineer and a PhD in Theoretical Physics Student
 - 👀 I’m interested in programming, physics, mathematics, and engineering
 - 🌱 I’m currently learning MS Excel and Python for Data Analysis
 
